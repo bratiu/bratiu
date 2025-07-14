@@ -1,1 +1,1 @@
-[![Playlist]([playlist.png](https://open.spotify.com/embed/playlist/17QzAZuxfMfNfxEeFEzHm1?utm_source=generator))](https://open.spotify.com/playlist/17QzAZuxfMfNfxEeFEzHm1?utm_source=generator)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
